@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - strategy
+  - arcade
 directors_cut: https://sidhulyalkar.com/arcade/unicorn-stampede
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
